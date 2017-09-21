@@ -4,12 +4,12 @@ Commands to run the file:
 
 FClientSAW
 
-javac FClientSAW.java
+# javac FClientSAW.java
 
 java FClientSAW IPAddress Port_Number File_Name [Consignment_to_forget][Consignment_to_forget][Consignment_to_forget][Consignment_to_forget]
 
 
-FServerSAW
+# FServerSAW
 
 javac FServerSAW.java
 
